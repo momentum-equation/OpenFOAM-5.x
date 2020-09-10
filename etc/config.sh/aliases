@@ -66,6 +66,13 @@ alias util='cd $FOAM_UTILITIES'
 alias tut='cd $FOAM_TUTORIALS'
 alias run='cd $FOAM_RUN'
 
+# user aliases
+alias prj='cd $WM_PROJECT_USER_DIR'
+alias prjsrc='cd $WM_PROJECT_USER_DIR/src'
+alias prjapp='cd $WM_PROJECT_USER_DIR/applications'
+alias prjtut='cd $WM_PROJECT_USER_DIR/tutorials'
+alias prjutil='cd $WM_PROJECT_USER_DIR/applications/utilities'
+alias prjsol='cd $WM_PROJECT_USER_DIR/applications/solvers'
 
 # Refresh the environment
 # ~~~~~~~~~~~~~~~~~~~~~~~

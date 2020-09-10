@@ -82,3 +82,9 @@ doc/Doxygen/DTAGS
 
 # Ignore the test directory
 /tutorialsTest
+
+# Ignore symlinks to mpi
+/bin/mpi*
+
+# Ignore make log
+log.make
