@@ -176,6 +176,13 @@ unalias util
 unalias tut
 unalias run
 
+unalias prj
+unalias prjsrc
+unalias prjtut
+unalias prjapp
+unalias prjsol
+unalias prjutil
+
 unset wmRefresh
 unset foamVersion
 unset foamPV
